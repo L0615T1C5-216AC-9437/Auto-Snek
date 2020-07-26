@@ -1,4 +1,5 @@
 ![Java CI](https://github.com/L0615T1C5-216AC-9437/Auto-Snek/workflows/Java%20CI/badge.svg)
+[![Discord](https://img.shields.io/discord/519293558599974912.svg)](http://cn-discord.ddns.net)  
 ### Description
 Converts Inv-Sorter chain to Sneks
 
