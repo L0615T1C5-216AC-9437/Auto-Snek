@@ -4,7 +4,7 @@ Converts Inv-Sorter chain to Sneks
 
 ### Downloading a Jar
 1) go to [releases](https://github.com/L0615T1C5-216AC-9437/Auto-Snek/releases) and download latest version, (not recommended to use pre-releases)
-2) follow [#Installing](https://github.com/L0615T1C5-216AC-9437/Auto-Snek/blob/master/README.md#installing)
+2) follow [#Installing](https://github.com/L0615T1C5-216AC-9437/Auto-Snek#installing)
 
 ### Building a Jar
 
