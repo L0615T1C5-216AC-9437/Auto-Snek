@@ -2,6 +2,11 @@
 ### Description
 Converts Inv-Sorter chain to Sneks
 
+### How to Use
+1) Select Inverted-Sorters from the Distribution menu.  
+2) Make a long chain  
+3) Enjoy!
+
 ### Downloading a Jar
 1) go to [releases](https://github.com/L0615T1C5-216AC-9437/Auto-Snek/releases) and download latest version, (not recommended to use pre-releases)
 2) follow [#Installing](https://github.com/L0615T1C5-216AC-9437/Auto-Snek#installing)
